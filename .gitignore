@@ -1,3 +1,5 @@
 static/
 templates/
 *.log
+__pycache__/
+*.swp
